@@ -1,0 +1,5 @@
+C:\TPProgC8\ejercicio1_array\obj\Debug\net8.0\ejercicio1_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\TPProgC8\ejercicio1_array\obj\Debug\net8.0\ejercicio1_array.AssemblyInfoInputs.cache
+C:\TPProgC8\ejercicio1_array\obj\Debug\net8.0\ejercicio1_array.AssemblyInfo.cs
+C:\TPProgC8\ejercicio1_array\obj\Debug\net8.0\ejercicio1_array.csproj.CoreCompileInputs.cache
+C:\TPProgC8\ejercicio1_array\obj\Debug\net8.0\ejercicio1_array.sourcelink.json

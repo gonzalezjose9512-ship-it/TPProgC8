@@ -1,0 +1,15 @@
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.AssemblyInfoInputs.cache
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.AssemblyInfo.cs
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.csproj.CoreCompileInputs.cache
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.sourcelink.json
+C:\TPProgC8\ejercicio3_array\bin\Debug\net8.0\ejercicio3_array.exe
+C:\TPProgC8\ejercicio3_array\bin\Debug\net8.0\ejercicio3_array.deps.json
+C:\TPProgC8\ejercicio3_array\bin\Debug\net8.0\ejercicio3_array.runtimeconfig.json
+C:\TPProgC8\ejercicio3_array\bin\Debug\net8.0\ejercicio3_array.dll
+C:\TPProgC8\ejercicio3_array\bin\Debug\net8.0\ejercicio3_array.pdb
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.dll
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\refint\ejercicio3_array.dll
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.pdb
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ejercicio3_array.genruntimeconfig.cache
+C:\TPProgC8\ejercicio3_array\obj\Debug\net8.0\ref\ejercicio3_array.dll
