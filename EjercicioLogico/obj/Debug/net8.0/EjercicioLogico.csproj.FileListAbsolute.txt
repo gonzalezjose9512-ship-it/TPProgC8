@@ -1,0 +1,15 @@
+C:\TPProgC8\EjercicioLogico\bin\Debug\net8.0\EjercicioLogico.exe
+C:\TPProgC8\EjercicioLogico\bin\Debug\net8.0\EjercicioLogico.deps.json
+C:\TPProgC8\EjercicioLogico\bin\Debug\net8.0\EjercicioLogico.runtimeconfig.json
+C:\TPProgC8\EjercicioLogico\bin\Debug\net8.0\EjercicioLogico.dll
+C:\TPProgC8\EjercicioLogico\bin\Debug\net8.0\EjercicioLogico.pdb
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.AssemblyInfoInputs.cache
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.AssemblyInfo.cs
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.csproj.CoreCompileInputs.cache
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.sourcelink.json
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.dll
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\refint\EjercicioLogico.dll
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.pdb
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\EjercicioLogico.genruntimeconfig.cache
+C:\TPProgC8\EjercicioLogico\obj\Debug\net8.0\ref\EjercicioLogico.dll
